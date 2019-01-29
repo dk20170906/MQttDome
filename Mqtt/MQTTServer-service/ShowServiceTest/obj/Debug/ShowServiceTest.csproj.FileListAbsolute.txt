@@ -1,0 +1,14 @@
+E:\Mqtt\MQTTServer-service\ShowServiceTest\bin\Debug\ShowServiceTest.exe.config
+E:\Mqtt\MQTTServer-service\ShowServiceTest\bin\Debug\ShowServiceTest.exe
+E:\Mqtt\MQTTServer-service\ShowServiceTest\bin\Debug\ShowServiceTest.pdb
+E:\Mqtt\MQTTServer-service\ShowServiceTest\bin\Debug\Newtonsoft.Json.dll
+E:\Mqtt\MQTTServer-service\ShowServiceTest\bin\Debug\Socket.dll
+E:\Mqtt\MQTTServer-service\ShowServiceTest\bin\Debug\Newtonsoft.Json.xml
+E:\Mqtt\MQTTServer-service\ShowServiceTest\bin\Debug\Socket.pdb
+E:\Mqtt\MQTTServer-service\ShowServiceTest\bin\Debug\Socket.xml
+E:\Mqtt\MQTTServer-service\ShowServiceTest\obj\Debug\ShowServiceTest.Form1.resources
+E:\Mqtt\MQTTServer-service\ShowServiceTest\obj\Debug\ShowServiceTest.Properties.Resources.resources
+E:\Mqtt\MQTTServer-service\ShowServiceTest\obj\Debug\ShowServiceTest.csproj.GenerateResource.Cache
+E:\Mqtt\MQTTServer-service\ShowServiceTest\obj\Debug\ShowServiceTest.csproj.CoreCompileInputs.cache
+E:\Mqtt\MQTTServer-service\ShowServiceTest\obj\Debug\ShowServiceTest.exe
+E:\Mqtt\MQTTServer-service\ShowServiceTest\obj\Debug\ShowServiceTest.pdb

@@ -1,0 +1,16 @@
+E:\MQTTServerClient\MQTTNetServer\MQTTNetServer\bin\Debug\MQTTNetServer.exe.config
+E:\MQTTServerClient\MQTTNetServer\MQTTNetServer\bin\Debug\MQTTNetServer.exe.manifest
+E:\MQTTServerClient\MQTTNetServer\MQTTNetServer\bin\Debug\MQTTNetServer.application
+E:\MQTTServerClient\MQTTNetServer\MQTTNetServer\bin\Debug\MQTTNetServer.exe
+E:\MQTTServerClient\MQTTNetServer\MQTTNetServer\bin\Debug\MQTTNetServer.pdb
+E:\MQTTServerClient\MQTTNetServer\MQTTNetServer\bin\Debug\MQTTnet.dll
+E:\MQTTServerClient\MQTTNetServer\MQTTNetServer\obj\Debug\MQTTNetServer.FrmMqttServer.resources
+E:\MQTTServerClient\MQTTNetServer\MQTTNetServer\obj\Debug\MQTTNetServer.FrmServerSendMsg.resources
+E:\MQTTServerClient\MQTTNetServer\MQTTNetServer\obj\Debug\MQTTNetServer.Properties.Resources.resources
+E:\MQTTServerClient\MQTTNetServer\MQTTNetServer\obj\Debug\MQTTNetServer.csproj.GenerateResource.Cache
+E:\MQTTServerClient\MQTTNetServer\MQTTNetServer\obj\Debug\MQTTNetServer.csproj.CoreCompileInputs.cache
+E:\MQTTServerClient\MQTTNetServer\MQTTNetServer\obj\Debug\MQTTNetServer.TrustInfo.xml
+E:\MQTTServerClient\MQTTNetServer\MQTTNetServer\obj\Debug\MQTTNetServer.exe.manifest
+E:\MQTTServerClient\MQTTNetServer\MQTTNetServer\obj\Debug\MQTTNetServer.application
+E:\MQTTServerClient\MQTTNetServer\MQTTNetServer\obj\Debug\MQTTNetServer.exe
+E:\MQTTServerClient\MQTTNetServer\MQTTNetServer\obj\Debug\MQTTNetServer.pdb

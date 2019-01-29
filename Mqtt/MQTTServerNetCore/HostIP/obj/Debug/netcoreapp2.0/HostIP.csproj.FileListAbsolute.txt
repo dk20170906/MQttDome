@@ -1,0 +1,11 @@
+E:\Mqtt\MQTTServerNetCore\HostIP\bin\Debug\netcoreapp2.0\HostIP.deps.json
+E:\Mqtt\MQTTServerNetCore\HostIP\bin\Debug\netcoreapp2.0\HostIP.runtimeconfig.json
+E:\Mqtt\MQTTServerNetCore\HostIP\bin\Debug\netcoreapp2.0\HostIP.runtimeconfig.dev.json
+E:\Mqtt\MQTTServerNetCore\HostIP\bin\Debug\netcoreapp2.0\HostIP.dll
+E:\Mqtt\MQTTServerNetCore\HostIP\bin\Debug\netcoreapp2.0\HostIP.pdb
+E:\Mqtt\MQTTServerNetCore\HostIP\obj\Debug\netcoreapp2.0\HostIP.csprojResolveAssemblyReference.cache
+E:\Mqtt\MQTTServerNetCore\HostIP\obj\Debug\netcoreapp2.0\HostIP.csproj.CoreCompileInputs.cache
+E:\Mqtt\MQTTServerNetCore\HostIP\obj\Debug\netcoreapp2.0\HostIP.AssemblyInfoInputs.cache
+E:\Mqtt\MQTTServerNetCore\HostIP\obj\Debug\netcoreapp2.0\HostIP.AssemblyInfo.cs
+E:\Mqtt\MQTTServerNetCore\HostIP\obj\Debug\netcoreapp2.0\HostIP.dll
+E:\Mqtt\MQTTServerNetCore\HostIP\obj\Debug\netcoreapp2.0\HostIP.pdb

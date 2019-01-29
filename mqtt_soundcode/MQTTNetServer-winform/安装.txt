@@ -1,0 +1,5 @@
+@echo.请稍等，服务启动......    
+@echo off    
+@sc create GX_To_EMAIL binPath= "E:\MQTTServerClient\MQTTNetServer\MqttNetServerTest01\bin\Debug\MqttNetServerTest01.exe"    
+@echo.启动完毕！    
+@pause 

@@ -1,0 +1,10 @@
+E:\Mqtt\MQTTServerNetCore\WindowsService1test\bin\Debug\WindowsService1test.exe.config
+E:\Mqtt\MQTTServerNetCore\WindowsService1test\bin\Debug\WindowsService1test.exe
+E:\Mqtt\MQTTServerNetCore\WindowsService1test\bin\Debug\WindowsService1test.pdb
+E:\Mqtt\MQTTServerNetCore\WindowsService1test\bin\Debug\MQTTnet.dll
+E:\Mqtt\MQTTServerNetCore\WindowsService1test\obj\Debug\WindowsService1test.csprojResolveAssemblyReference.cache
+E:\Mqtt\MQTTServerNetCore\WindowsService1test\obj\Debug\WindowsService1test.ProjectInstaller.resources
+E:\Mqtt\MQTTServerNetCore\WindowsService1test\obj\Debug\WindowsService1test.csproj.GenerateResource.Cache
+E:\Mqtt\MQTTServerNetCore\WindowsService1test\obj\Debug\WindowsService1test.csproj.CoreCompileInputs.cache
+E:\Mqtt\MQTTServerNetCore\WindowsService1test\obj\Debug\WindowsService1test.exe
+E:\Mqtt\MQTTServerNetCore\WindowsService1test\obj\Debug\WindowsService1test.pdb

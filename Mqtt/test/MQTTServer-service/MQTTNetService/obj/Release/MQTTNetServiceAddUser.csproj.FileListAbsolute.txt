@@ -1,0 +1,12 @@
+E:\Mqtt\test\MQTTServer-service\MQTTNetService\bin\Release\MQTTNetService.exe.config
+E:\Mqtt\test\MQTTServer-service\MQTTNetService\bin\Release\MQTTNetService.exe.manifest
+E:\Mqtt\test\MQTTServer-service\MQTTNetService\bin\Release\MQTTNetService.application
+E:\Mqtt\test\MQTTServer-service\MQTTNetService\bin\Release\MQTTNetService.exe
+E:\Mqtt\test\MQTTServer-service\MQTTNetService\bin\Release\MQTTNetService.pdb
+E:\Mqtt\test\MQTTServer-service\MQTTNetService\obj\Release\MQTTNetService.ProjectInstaller.resources
+E:\Mqtt\test\MQTTServer-service\MQTTNetService\obj\Release\MQTTNetServiceAddUser.csproj.GenerateResource.Cache
+E:\Mqtt\test\MQTTServer-service\MQTTNetService\obj\Release\MQTTNetServiceAddUser.csproj.CoreCompileInputs.cache
+E:\Mqtt\test\MQTTServer-service\MQTTNetService\obj\Release\MQTTNetService.exe.manifest
+E:\Mqtt\test\MQTTServer-service\MQTTNetService\obj\Release\MQTTNetService.application
+E:\Mqtt\test\MQTTServer-service\MQTTNetService\obj\Release\MQTTNetService.exe
+E:\Mqtt\test\MQTTServer-service\MQTTNetService\obj\Release\MQTTNetService.pdb

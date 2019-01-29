@@ -1,0 +1,10 @@
+E:\Mqtt\MQTTServerNetCore\MQTTServerNetCore\obj\Debug\MQTTServerNetCore.Form1.resources
+E:\Mqtt\MQTTServerNetCore\MQTTServerNetCore\obj\Debug\MQTTServerNetCore.Properties.Resources.resources
+E:\Mqtt\MQTTServerNetCore\MQTTServerNetCore\obj\Debug\MQTTServerNetCore.csproj.GenerateResource.Cache
+E:\Mqtt\MQTTServerNetCore\MQTTServerNetCore\obj\Debug\MQTTServerNetCore.csproj.CoreCompileInputs.cache
+E:\Mqtt\MQTTServerNetCore\MQTTServerNetCore\bin\Debug\MQTTServerNetCore.exe.config
+E:\Mqtt\MQTTServerNetCore\MQTTServerNetCore\bin\Debug\MQTTServerNetCore.exe
+E:\Mqtt\MQTTServerNetCore\MQTTServerNetCore\bin\Debug\MQTTServerNetCore.pdb
+E:\Mqtt\MQTTServerNetCore\MQTTServerNetCore\bin\Debug\MQTTnet.dll
+E:\Mqtt\MQTTServerNetCore\MQTTServerNetCore\obj\Debug\MQTTServerNetCore.exe
+E:\Mqtt\MQTTServerNetCore\MQTTServerNetCore\obj\Debug\MQTTServerNetCore.pdb

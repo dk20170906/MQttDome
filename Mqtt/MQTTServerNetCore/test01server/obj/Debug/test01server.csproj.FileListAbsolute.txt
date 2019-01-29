@@ -1,0 +1,9 @@
+E:\Mqtt\MQTTServerNetCore\test01server\bin\Debug\test01server.exe.config
+E:\Mqtt\MQTTServerNetCore\test01server\bin\Debug\test01server.exe
+E:\Mqtt\MQTTServerNetCore\test01server\bin\Debug\test01server.pdb
+E:\Mqtt\MQTTServerNetCore\test01server\obj\Debug\test01server.ProjectInstaller.resources
+E:\Mqtt\MQTTServerNetCore\test01server\obj\Debug\test01server.csproj.GenerateResource.Cache
+E:\Mqtt\MQTTServerNetCore\test01server\obj\Debug\test01server.csproj.CoreCompileInputs.cache
+E:\Mqtt\MQTTServerNetCore\test01server\obj\Debug\test01server.exe
+E:\Mqtt\MQTTServerNetCore\test01server\obj\Debug\test01server.pdb
+E:\Mqtt\MQTTServerNetCore\test01server\obj\Debug\test01server.csprojResolveAssemblyReference.cache

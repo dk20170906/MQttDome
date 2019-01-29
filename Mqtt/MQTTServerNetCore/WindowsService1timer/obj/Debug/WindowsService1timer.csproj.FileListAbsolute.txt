@@ -1,0 +1,13 @@
+E:\Mqtt\MQTTServerNetCore\WindowsService1timer\bin\Debug\WindowsService1timer.exe.config
+E:\Mqtt\MQTTServerNetCore\WindowsService1timer\bin\Debug\WindowsService1timer.exe
+E:\Mqtt\MQTTServerNetCore\WindowsService1timer\bin\Debug\WindowsService1timer.pdb
+E:\Mqtt\MQTTServerNetCore\WindowsService1timer\bin\Debug\System.Net.Http.dll
+E:\Mqtt\MQTTServerNetCore\WindowsService1timer\bin\Debug\System.Net.Http.xml
+E:\Mqtt\MQTTServerNetCore\WindowsService1timer\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+E:\Mqtt\MQTTServerNetCore\WindowsService1timer\obj\Debug\WindowsService1timer.csprojResolveAssemblyReference.cache
+E:\Mqtt\MQTTServerNetCore\WindowsService1timer\obj\Debug\WindowsService1timer.ProjectInstaller.resources
+E:\Mqtt\MQTTServerNetCore\WindowsService1timer\obj\Debug\WindowsService1timer.servertimer.resources
+E:\Mqtt\MQTTServerNetCore\WindowsService1timer\obj\Debug\WindowsService1timer.csproj.GenerateResource.Cache
+E:\Mqtt\MQTTServerNetCore\WindowsService1timer\obj\Debug\WindowsService1timer.csproj.CoreCompileInputs.cache
+E:\Mqtt\MQTTServerNetCore\WindowsService1timer\obj\Debug\WindowsService1timer.exe
+E:\Mqtt\MQTTServerNetCore\WindowsService1timer\obj\Debug\WindowsService1timer.pdb

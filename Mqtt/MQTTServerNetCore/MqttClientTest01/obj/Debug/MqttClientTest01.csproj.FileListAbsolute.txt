@@ -1,0 +1,11 @@
+E:\Mqtt\MQTTServerNetCore\MqttClientTest01\bin\Debug\MqttClientTest01.exe
+E:\Mqtt\MQTTServerNetCore\MqttClientTest01\bin\Debug\MQTTnet.dll
+E:\Mqtt\MQTTServerNetCore\MqttClientTest01\bin\Debug\MqttClientTest01.exe.config
+E:\Mqtt\MQTTServerNetCore\MqttClientTest01\obj\Debug\MqttClientTest01.Form1.resources
+E:\Mqtt\MQTTServerNetCore\MqttClientTest01\obj\Debug\MqttClientTest01.Properties.Resources.resources
+E:\Mqtt\MQTTServerNetCore\MqttClientTest01\obj\Debug\MqttClientTest01.csproj.GenerateResource.Cache
+E:\Mqtt\MQTTServerNetCore\MqttClientTest01\obj\Debug\MqttClientTest01.csproj.CoreCompileInputs.cache
+E:\Mqtt\MQTTServerNetCore\MqttClientTest01\obj\Debug\MqttClientTest01.exe
+E:\Mqtt\MQTTServerNetCore\MqttClientTest01\obj\Debug\MqttClientTest01.pdb
+E:\Mqtt\MQTTServerNetCore\MqttClientTest01\bin\Debug\MqttClientTest01.pdb
+E:\Mqtt\MQTTServerNetCore\MqttClientTest01\obj\Debug\MqttClientTest01.csprojResolveAssemblyReference.cache

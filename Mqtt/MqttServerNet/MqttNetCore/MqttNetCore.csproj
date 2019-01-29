@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <ApplicationIcon />
+    <OutputType>Library</OutputType>
+    <StartupObject />
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MQTTnet" Version="2.7.5" />
+    <PackageReference Include="MQTTnet.AspNetCore" Version="2.7.5" />
+    <PackageReference Include="MQTTnet.Extensions.Rpc" Version="2.7.5" />
+  </ItemGroup>
+
+</Project>

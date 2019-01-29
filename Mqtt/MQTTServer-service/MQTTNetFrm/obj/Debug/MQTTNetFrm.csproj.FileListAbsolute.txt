@@ -1,0 +1,10 @@
+E:\Mqtt\MQTTServer-service\MQTTNetFrm\bin\Debug\MQTTNetFrm.exe.config
+E:\Mqtt\MQTTServer-service\MQTTNetFrm\bin\Debug\MQTTNetFrm.exe
+E:\Mqtt\MQTTServer-service\MQTTNetFrm\bin\Debug\MQTTNetFrm.pdb
+E:\Mqtt\MQTTServer-service\MQTTNetFrm\bin\Debug\MQTTnet.dll
+E:\Mqtt\MQTTServer-service\MQTTNetFrm\obj\Debug\MQTTNetFrm.Form1.resources
+E:\Mqtt\MQTTServer-service\MQTTNetFrm\obj\Debug\MQTTNetFrm.Properties.Resources.resources
+E:\Mqtt\MQTTServer-service\MQTTNetFrm\obj\Debug\MQTTNetFrm.csproj.GenerateResource.Cache
+E:\Mqtt\MQTTServer-service\MQTTNetFrm\obj\Debug\MQTTNetFrm.csproj.CoreCompileInputs.cache
+E:\Mqtt\MQTTServer-service\MQTTNetFrm\obj\Debug\MQTTNetFrm.exe
+E:\Mqtt\MQTTServer-service\MQTTNetFrm\obj\Debug\MQTTNetFrm.pdb

@@ -1,0 +1,42 @@
+﻿
+@{
+    ViewData["Title"] = "Get";
+}
+
+<script src="~/Scripts/jquery-1.7.1.js"></script>
+<div>
+    开户服务器：    <input id="butstartmqtt" type="button" value="开启MQTT服务器" />
+    <div>
+    </div>
+
+    主题：<input id="mqtttopic" type="text" />
+    消息：<input id="mqtttxtmsg" type="text" />
+
+    <input id="butsendmsg" type="button" value="send" />
+</div>
+<div>
+    <table style="width:100%;" id="tabmqttclients">
+    <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+    <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+    <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+    </table>
+</div>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('#butstartmqtt').click(function () {
+            $.ajax(
+                url:"@Url.Content("~/MQTTServer/StartMqttServer")",
+                success:function (data) {
+                    if (data.length > 0) {
+                        alert("123456");
+                    }
+                },
+                error:function (data) {      
+
+                }
+            )
+
+        });
+    });
+</script>
+

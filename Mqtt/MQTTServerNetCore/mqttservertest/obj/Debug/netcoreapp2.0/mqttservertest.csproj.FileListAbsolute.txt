@@ -1,0 +1,11 @@
+E:\Mqtt\MQTTServerNetCore\mqttservertest\bin\Debug\netcoreapp2.0\mqttservertest.deps.json
+E:\Mqtt\MQTTServerNetCore\mqttservertest\bin\Debug\netcoreapp2.0\mqttservertest.runtimeconfig.json
+E:\Mqtt\MQTTServerNetCore\mqttservertest\bin\Debug\netcoreapp2.0\mqttservertest.runtimeconfig.dev.json
+E:\Mqtt\MQTTServerNetCore\mqttservertest\bin\Debug\netcoreapp2.0\mqttservertest.dll
+E:\Mqtt\MQTTServerNetCore\mqttservertest\bin\Debug\netcoreapp2.0\mqttservertest.pdb
+E:\Mqtt\MQTTServerNetCore\mqttservertest\obj\Debug\netcoreapp2.0\mqttservertest.csprojResolveAssemblyReference.cache
+E:\Mqtt\MQTTServerNetCore\mqttservertest\obj\Debug\netcoreapp2.0\mqttservertest.csproj.CoreCompileInputs.cache
+E:\Mqtt\MQTTServerNetCore\mqttservertest\obj\Debug\netcoreapp2.0\mqttservertest.AssemblyInfoInputs.cache
+E:\Mqtt\MQTTServerNetCore\mqttservertest\obj\Debug\netcoreapp2.0\mqttservertest.AssemblyInfo.cs
+E:\Mqtt\MQTTServerNetCore\mqttservertest\obj\Debug\netcoreapp2.0\mqttservertest.dll
+E:\Mqtt\MQTTServerNetCore\mqttservertest\obj\Debug\netcoreapp2.0\mqttservertest.pdb

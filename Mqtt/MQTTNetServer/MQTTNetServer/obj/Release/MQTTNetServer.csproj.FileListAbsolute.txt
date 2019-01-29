@@ -1,0 +1,11 @@
+E:\MQTTServerClient\MQTTNetServer\MQTTNetServer\bin\Release\MQTTNetServer.exe.config
+E:\MQTTServerClient\MQTTNetServer\MQTTNetServer\bin\Release\MQTTNetServer.exe
+E:\MQTTServerClient\MQTTNetServer\MQTTNetServer\bin\Release\MQTTNetServer.pdb
+E:\MQTTServerClient\MQTTNetServer\MQTTNetServer\bin\Release\MQTTnet.dll
+E:\MQTTServerClient\MQTTNetServer\MQTTNetServer\obj\Release\MQTTNetServer.FrmMqttServer.resources
+E:\MQTTServerClient\MQTTNetServer\MQTTNetServer\obj\Release\MQTTNetServer.FrmServerSendMsg.resources
+E:\MQTTServerClient\MQTTNetServer\MQTTNetServer\obj\Release\MQTTNetServer.Properties.Resources.resources
+E:\MQTTServerClient\MQTTNetServer\MQTTNetServer\obj\Release\MQTTNetServer.csproj.GenerateResource.Cache
+E:\MQTTServerClient\MQTTNetServer\MQTTNetServer\obj\Release\MQTTNetServer.csproj.CoreCompileInputs.cache
+E:\MQTTServerClient\MQTTNetServer\MQTTNetServer\obj\Release\MQTTNetServer.exe
+E:\MQTTServerClient\MQTTNetServer\MQTTNetServer\obj\Release\MQTTNetServer.pdb

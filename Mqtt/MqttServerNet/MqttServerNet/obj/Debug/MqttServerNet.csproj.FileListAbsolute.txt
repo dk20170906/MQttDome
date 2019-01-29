@@ -1,0 +1,11 @@
+E:\Mqtt\MqttServerNet\MqttServerNet\obj\Debug\MqttServerNet.csprojResolveAssemblyReference.cache
+E:\Mqtt\MqttServerNet\MqttServerNet\obj\Debug\MqttServerNet.Properties.Resources.resources
+E:\Mqtt\MqttServerNet\MqttServerNet\obj\Debug\MqttServerNet.csproj.GenerateResource.Cache
+E:\Mqtt\MqttServerNet\MqttServerNet\obj\Debug\MqttServerNet.csproj.CoreCompileInputs.cache
+E:\Mqtt\MqttServerNet\MqttServerNet\bin\Debug\MqttServerNet.exe.config
+E:\Mqtt\MqttServerNet\MqttServerNet\bin\Debug\MqttServerNet.exe
+E:\Mqtt\MqttServerNet\MqttServerNet\bin\Debug\MqttServerNet.pdb
+E:\Mqtt\MqttServerNet\MqttServerNet\bin\Debug\MQTTnet.dll
+E:\Mqtt\MqttServerNet\MqttServerNet\obj\Debug\MqttServerNet.exe
+E:\Mqtt\MqttServerNet\MqttServerNet\obj\Debug\MqttServerNet.pdb
+E:\Mqtt\MqttServerNet\MqttServerNet\obj\Debug\MqttServerNet.Form1.resources
